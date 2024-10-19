@@ -1,0 +1,8 @@
+{
+  "name": "heylocal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "ff8ed4eb"
+}
